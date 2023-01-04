@@ -1091,7 +1091,7 @@
 
   (no_connect (at 132.715 123.825) (uuid 3dac052e-3f15-425a-ad8f-9e648e8dd3bf))
   (no_connect (at 132.715 135.255) (uuid 721eb4df-7ef2-4132-86da-1fadc7f5b1fe))
-  (no_connect (at 132.715 137.795) (uuid 721eb4df-7ef2-4132-86da-1fadc7f5b1fe))
+  (no_connect (at 132.715 137.795) (uuid 721eb4df-7ef2-4132-86da-1fadc7f5b1ff))
   (no_connect (at 29.21 34.29) (uuid f435dabb-24e8-4484-8ca7-eadf64222645))
 
   (wire (pts (xy 139.065 20.955) (xy 139.065 19.685))
